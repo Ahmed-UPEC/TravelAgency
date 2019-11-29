@@ -265,7 +265,7 @@ input[type="text"] {
 /* Footer */
 
 footer {
-    height: 260px;
+    height: 280px;
     background: #444;
 }
 
@@ -280,4 +280,10 @@ footer p {
     font-weight: bold;
     padding-top: 30px;
     color: #777;
+}
+
+.sign {
+    float: right;
+    margin: 10px 20px 20px 0;
+    color: #ddd;
 }
